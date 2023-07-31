@@ -1,9 +1,9 @@
 <!-- Заголовок профиля -->
-<h1 align="center">Alex Finokhin</h1>
+<h1 align="center">Hi 👋! my name is Alex Finokhin</h1>
 
 <!-- Описание профиля -->
 <p align="center">
-Hello! 👋 I'm a Frontend Developer striving to create elegant and efficient web applications that bring joy to users. My passion for technology and constant pursuit of self-improvement help me explore new opportunities and overcome challenges in the world of web development.
+  I'm a Frontend Developer striving to create elegant and efficient web applications that bring joy to users. My passion for technology and constant pursuit of self-improvement help me explore new opportunities and overcome challenges in the world of web development.
 </p>
 
 <!-- Стек технологий -->
