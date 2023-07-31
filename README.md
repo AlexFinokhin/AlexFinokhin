@@ -31,7 +31,3 @@ Hello! 👋 I'm a Frontend Developer striving to create elegant and efficient we
   <a href="mailto:finokhinalex@yandex.ru" target="_blank">
      <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=yandex&logoColor=white">
   </a>
-
-<p align="center">
-  Создано с ❤️
-</p>
