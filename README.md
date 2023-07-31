@@ -1,5 +1,5 @@
 <!-- Заголовок профиля -->
-<h1 align="center">Hi 👋! my name is Alex Finokhin</h1>
+<h1 align="center">Hi!👋 My name is Alex Finokhin</h1>
 
 <!-- Описание профиля -->
 <p align="center">
