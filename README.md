@@ -23,9 +23,7 @@
 <!-- Связь -->
 ## Contact Information
 
-- Email: finokhinalex@yandex.ru
-- Phone number: 89270357916
-- Telegram: [@anysophia](https://t.me/anysophia)
+
 
 <!-- Анимированные иконки контактов -->
 
